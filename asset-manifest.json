@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Dashboard6/static/css/main.1f4298c4.chunk.css",
+    "main.js": "/Dashboard6/static/js/main.7e29ea89.chunk.js",
+    "main.js.map": "/Dashboard6/static/js/main.7e29ea89.chunk.js.map",
+    "runtime-main.js": "/Dashboard6/static/js/runtime-main.20fc398f.js",
+    "runtime-main.js.map": "/Dashboard6/static/js/runtime-main.20fc398f.js.map",
+    "static/js/2.1e09490d.chunk.js": "/Dashboard6/static/js/2.1e09490d.chunk.js",
+    "static/js/2.1e09490d.chunk.js.map": "/Dashboard6/static/js/2.1e09490d.chunk.js.map",
+    "index.html": "/Dashboard6/index.html",
+    "precache-manifest.15ab8d47a59d0d5f03f31e35d704ddd1.js": "/Dashboard6/precache-manifest.15ab8d47a59d0d5f03f31e35d704ddd1.js",
+    "service-worker.js": "/Dashboard6/service-worker.js",
+    "static/css/main.1f4298c4.chunk.css.map": "/Dashboard6/static/css/main.1f4298c4.chunk.css.map",
+    "static/js/2.1e09490d.chunk.js.LICENSE.txt": "/Dashboard6/static/js/2.1e09490d.chunk.js.LICENSE.txt",
+    "static/media/add.svg": "/Dashboard6/static/media/add.0e3e08bc.svg",
+    "static/media/alert1.svg": "/Dashboard6/static/media/alert1.03f2407b.svg",
+    "static/media/dp2.png": "/Dashboard6/static/media/dp2.f90dd83d.png",
+    "static/media/logo.png": "/Dashboard6/static/media/logo.700ea238.png",
+    "static/media/noti.svg": "/Dashboard6/static/media/noti.b89b3056.svg",
+    "static/media/toggle.svg": "/Dashboard6/static/media/toggle.55f68494.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20fc398f.js",
+    "static/js/2.1e09490d.chunk.js",
+    "static/css/main.1f4298c4.chunk.css",
+    "static/js/main.7e29ea89.chunk.js"
+  ]
+}
